@@ -26,7 +26,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Fancy Text addition",
+          "textSize": "heading-one",
+          "highlight": "#509518",
+          "color": "#bc2424"
         }
       ]
     }
@@ -35,7 +38,7 @@
   "created_by": "JMU-AudiAnnotate",
   "title": "UA0017-DO-0017",
   "slug": "ua0017-do-0017",
-  "updated_at": "2025-07-17T18:13:18.808Z",
+  "updated_at": "2025-07-17T18:17:31.064Z",
   "updated_by": "JMU-AudiAnnotate",
   "parent": "e684f2b3-aa2a-4cd8-8e31-83d35dd6943a",
   "autogenerate": {
